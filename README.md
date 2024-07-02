@@ -10,9 +10,9 @@ Welcome to the official repository of the **Shoes R Us** shopping app. This app 
 
 
 ## Screenshots
-![Products Page](https://github.com/yourusername/shoes-r-us/blob/main/screenshots/home_screen.png)
-![Checkout Page](https://github.com/yourusername/shoes-r-us/blob/main/screenshots/product_page.png)
-![Order Successful Page](https://github.com/yourusername/shoes-r-us/blob/main/screenshots/checkout_page.png)
+![Products Page](https://github.com/DevEdozie/ShoesRUs/blob/main/prduct_screen_checked.jpg)
+![Checkout Page](https://github.com/DevEdozie/ShoesRUs/blob/main/checked_products_screen_with_products.jpg)
+![Order Successful Page](https://github.com/DevEdozie/ShoesRUs/blob/main/order_successful_scrren.jpg)
 
 ## Setup Instructions
 
@@ -23,8 +23,7 @@ Welcome to the official repository of the **Shoes R Us** shopping app. This app 
 
 ### Cloning the Repository
 ```sh
-[git clone https://github.com/yourusername/shoes-r-us.git
-cd shoes-r-us](https://github.com/DevEdozie/ShoesRUs.git)
+[git clone https://github.com/DevEdozie/ShoesRUs.git](
 ```
 
 ### Opening the Project in Android Studio
