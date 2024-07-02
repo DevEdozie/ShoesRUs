@@ -10,9 +10,9 @@ Welcome to the official repository of the **Shoes R Us** shopping app. This app 
 
 
 ## Screenshots
-![Home Screen](https://github.com/yourusername/shoes-r-us/blob/main/screenshots/home_screen.png)
-![Product Page](https://github.com/yourusername/shoes-r-us/blob/main/screenshots/product_page.png)
-![Checkout Page](https://github.com/yourusername/shoes-r-us/blob/main/screenshots/checkout_page.png)
+![Products Page](https://github.com/yourusername/shoes-r-us/blob/main/screenshots/home_screen.png)
+![Checkout Page](https://github.com/yourusername/shoes-r-us/blob/main/screenshots/product_page.png)
+![Order Successful Page](https://github.com/yourusername/shoes-r-us/blob/main/screenshots/checkout_page.png)
 
 ## Setup Instructions
 
@@ -23,8 +23,8 @@ Welcome to the official repository of the **Shoes R Us** shopping app. This app 
 
 ### Cloning the Repository
 ```sh
-git clone https://github.com/yourusername/shoes-r-us.git
-cd shoes-r-us
+[git clone https://github.com/yourusername/shoes-r-us.git
+cd shoes-r-us](https://github.com/DevEdozie/ShoesRUs.git)
 ```
 
 ### Opening the Project in Android Studio
@@ -42,7 +42,7 @@ cd shoes-r-us
 2. Click on **Run > Run 'app'** to install and run the app on your device/emulator.
 
 ## APK Download
-Download the latest APK from the [releases page](https://github.com/yourusername/shoes-r-us/releases).
+Download the latest APK from the [releases page]().
 
 ## Contributing
 We welcome contributions to improve the Shoes R Us app. Please follow these steps:
