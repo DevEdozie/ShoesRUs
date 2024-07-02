@@ -42,7 +42,7 @@ cd shoes-r-us](https://github.com/DevEdozie/ShoesRUs.git)
 2. Click on **Run > Run 'app'** to install and run the app on your device/emulator.
 
 ## APK Download
-Download the latest APK from the [releases page]().
+Download the latest APK from the [releases page](https://github.com/DevEdozie/ShoesRUs/blob/main/shoes_r_us_1.0.apk).
 
 ## Contributing
 We welcome contributions to improve the Shoes R Us app. Please follow these steps:
