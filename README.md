@@ -23,7 +23,7 @@ Welcome to the official repository of the **Shoes R Us** shopping app. This app 
 
 ### Cloning the Repository
 ```sh
-[git clone https://github.com/DevEdozie/ShoesRUs.git](
+git clone https://github.com/DevEdozie/ShoesRUs.git
 ```
 
 ### Opening the Project in Android Studio
